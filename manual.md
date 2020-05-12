@@ -3,7 +3,7 @@ title: "Roller Derby Magnet Board"
 layout: single
 ---
 By Wonder Zebra (Vienna Rollergirls), April 2013
-Contact, feedback, feature requests: [wonderzbra@gmail.com](mailto:wonderzbra@gmail.com)
+Contact, feedback, feature requests: <wonderzbra@gmail.com>
 
 Skaters are represented by circular shapes. They can be dragged with the mouse or finger and push other skaters. The circles around the skaters change colours depending on the situation.
 ## Colour codes
@@ -38,6 +38,6 @@ Skaters are represented by circular shapes. They can be dragged with the mouse o
 - H starts/stop recording. Once recording has stopped, the recorded session is opened as a standalone animated SVG file. Your browser must allow popups for this to work.
 - Skaters can be selected in a similar fashion as modern operating systems: draw a rectangle with the mouse, press the control key to modify the current selection, etc. All selected skaters move at the same time. Keep the shift key pressed to have the skaters follow the track, i.e. skaters on the outside go faster.
 
-## Other features:
+## Other features
 - The number of laps performed by each skater is recorded, so if blockers are in the middle of the pack but OOP then that's because they are one lap late (or ahead). Can be useful to illustrate illegal return. Hover the mouse over a skater to display its current lap
 - At the moment the method used to measure distance between skaters is the following: for each skater we take the closest point from the skater's centre to the central green line. Then the distance between two skaters is the distance to go from one point to the other following this line.
