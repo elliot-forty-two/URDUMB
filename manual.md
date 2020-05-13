@@ -1,6 +1,7 @@
 ---
 title: "Roller Derby Magnet Board"
 layout: single
+hidden: true
 ---
 By Wonder Zebra (Vienna Rollergirls), April 2013
 Contact, feedback, feature requests: <wonderzbra@gmail.com>

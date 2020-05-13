@@ -1,7 +1,7 @@
 ---
 title: "Magnet Board Theming"
 layout: single
-#permalink: "/magnet-board/theming"
+hidden: true
 ---
 Things you need to know before designing your own theme:
 - Every theme is a CSS file whose name starts with 'theme-'.
